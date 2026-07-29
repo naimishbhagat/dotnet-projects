@@ -1,0 +1,13 @@
+INSERT INTO TutorialAppSchema.Computer (
+                Motherboard,
+                HasWifi,
+                HasLTE,
+                Price,
+                VideoCard
+            ) VALUES ('Z690','True','False','943.87','RTX 2026')INSERT INTO TutorialAppSchema.Computer (
+                Motherboard,
+                HasWifi,
+                HasLTE,
+                Price,
+                VideoCard
+            ) VALUES ('Z690','True','False','943.87','RTX 2026')
