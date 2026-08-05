@@ -39,5 +39,17 @@ namespace ModelApp.Data
             IDbConnection dbConnection = new SqlConnection(_connectionString);
             return dbConnection.Execute(sql);
         }
+
+        public int ExecuteSQL(string sql)
+        {
+            using (IDbConnection dbConnection = new SqlConnection(_connectionString))
+            {
+                return dbConnection.Execute(sql);
+            }
+        }
+        public void ExecuteProcedureMulti(string sql, IDbConnection dbConnection)
+        {
+            dbConnection.Execute(sql);
+        }
     }
 }

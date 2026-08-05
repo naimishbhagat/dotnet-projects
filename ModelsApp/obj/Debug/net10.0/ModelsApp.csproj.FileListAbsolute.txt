@@ -72,3 +72,5 @@
 /Users/naimishbhagat/Sites/dotnet_projects/ModelsApp/bin/Debug/net10.0/Microsoft.Extensions.FileProviders.Physical.dll
 /Users/naimishbhagat/Sites/dotnet_projects/ModelsApp/bin/Debug/net10.0/Microsoft.Extensions.FileSystemGlobbing.dll
 /Users/naimishbhagat/Sites/dotnet_projects/ModelsApp/bin/Debug/net10.0/appsettings.json
+/Users/naimishbhagat/Sites/dotnet_projects/ModelsApp/obj/Debug/net10.0/ModelsApp.sourcelink.json
+/Users/naimishbhagat/Sites/dotnet_projects/ModelsApp/bin/Debug/net10.0/Newtonsoft.Json.dll
